@@ -9,10 +9,12 @@
     <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-encrypted-storage/android" />
     <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-gesture-handler/android" />
     <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-maps/android" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-permissions/android" />
     <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-reanimated/android" />
     <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-safe-area-context/android" />
     <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-screens/android" />
     <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-splash-screen/android" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-vector-icons/android" />
   </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
