@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/front/android" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/@react-native-community/geolocation/android" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/@react-native-masked-view/masked-view/android" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/@react-native/gradle-plugin" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-encrypted-storage/android" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-gesture-handler/android" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-maps/android" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-reanimated/android" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-safe-area-context/android" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-screens/android" />
+    <file type="web" url="file://$PROJECT_DIR$/front/node_modules/react-native-splash-screen/android" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
